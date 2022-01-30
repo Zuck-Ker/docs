@@ -8,6 +8,8 @@ Use the table of contents icon <img src="./assets/images/table-of-contents.png" 
 
 ## Contributing
 
+follow : https://github.com/Zuck-Ker
+
 See [the contributing guide](CONTRIBUTING.md) for detailed instructions on how to get started with our project. 
 
 We accept different [types of contributions](https://github.com/github/docs/blob/main/contributing/types-of-contributions.md), including some that don't require you to write a single line of code.
