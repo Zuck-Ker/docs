@@ -1,6 +1,6 @@
 # GitHub Docs <!-- omit in toc --> 
 
-This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
+This repository contains the documentation website code and Markdown source files for [3xploit . id](https://github.com/Zuck-Ker).
 
 GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
 
